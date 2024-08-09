@@ -1,7 +1,7 @@
 {
   "name": "vscode-devfile-sync-extension",
   "version": "1.0.0",
-  "description": "A VS Code extension for synchronizing devfile.yaml and devcontainer files",
+  "description": "A VS Code extension for synchronizing devfile and devcontainer files",
   "author": "sandrociceros and Github Copilot :P",
   "license": "MIT",
   "scripts": {

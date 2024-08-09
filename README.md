@@ -1,4 +1,4 @@
-# vscode-devfile-sync-extension
+# VS Code Devfile Sync Extension
 
 This is a Visual Studio Code extension that helps synchronize changes between a `devfile.yaml` and `devcontainer` file in a project.
 
